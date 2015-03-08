@@ -9,6 +9,7 @@ Credits:
 ================
 * Eydamos [For creating Backpacks Mod]
 * Nuttyprot [for Creating the textures][Retired From Texturing
+* Wreckage [For His Texture Contributions]
 * DrakeBD [Editing and Creating the pack]
 
 Licensing:
